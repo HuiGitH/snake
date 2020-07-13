@@ -8,7 +8,7 @@ python
 
 安装pygame可直接打开运行
 
-snake.py是一条贪吃蛇游戏（仅160行左右代码）
+snake.py是单人贪吃蛇（仅160行左右代码）
 
 twosnakes.py是双人对战贪吃蛇（仅220行左右代码）
 
